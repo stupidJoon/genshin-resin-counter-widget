@@ -1,5 +1,5 @@
 
-# Genshin Resin Widget
+# Genshin Resin Counter Widget
 
 Genshin Impact Resin Counter by Scriptable
 
