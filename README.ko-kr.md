@@ -17,7 +17,7 @@ Scriptable를 이용해서 만든 원신 레진 카운터 위젯
     3. 쿠키에서 ltoken 값과 ltuid값을 가져온다
 2. Scriptable 앱에서 위젯 스크립트를 가져온다
     1. 앱스토어에서 Scriptable을 설치한다
-    2. 다음 링크에서 .scriptable 파일을 다운로드한다
+    2. Release 탭에서 .scriptable 파일을 다운로드한다
     3. .scriptable 파일을 Scriptable 앱으로 가져온다
 3. 위젯을 추가한다
     1. 아이폰 빈 화면에서 가장 작은 Scriptable 위젯을 추가한다
