@@ -23,7 +23,7 @@ const date = new Date();
 const epoch = Math.floor(date.getTime() / 1000);
 const hash = MD5(`salt=6cqshh5dhw73bzxn20oexa9k516chk7s&t=${epoch}&r=abcdef`);
 const DS = `${epoch},abcdef,${hash}`;
-const url = `https://api-os-takumi.mihoyo.com/game_record/genshin/api/dailyNote?server=os_asia&role_id=${uid}`;
+const url = `https://bbs-api-os.mihoyo.com/game_record/genshin/api/dailyNote?server=os_asia&role_id=${uid}`;
 const req = new Request(url);
 req.headers = {
   'x-rpc-client_type': '4',
