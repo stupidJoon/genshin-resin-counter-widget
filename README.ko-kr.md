@@ -1,4 +1,4 @@
-# Genshin Resin Counter Widget
+# Genshin Resin Counter Widget [![Github Downloads (total)](https://img.shields.io/github/downloads/stupidJoon/genshin-resin-counter-widget/total.svg)]()
 
 Scriptable를 이용해서 만든 원신 레진 카운터 위젯
 
