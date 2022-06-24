@@ -1,6 +1,6 @@
 [한국어 문서](./README.ko-kr.md) 👈
 
-# Genshin Resin Counter Widget
+# Genshin Resin Counter Widget [![Github Downloads (total)](https://img.shields.io/github/downloads/stupidJoon/genshin-resin-counter-widget/total.svg)]()
 
 Genshin Impact Resin Counter by Scriptable
 
